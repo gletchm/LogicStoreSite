@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\00SOFTWARE_DEV\\LogicStore\\LogicStoreAPI\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "D:\\00SOFTWARE_DEV\\LogicStore\\LogicStoreAPI\\wwwroot\\Angular_Output.html",
+      "PackagePath": "staticwebassets\\Angular_Output.html"
+    },
+    {
+      "Id": "D:\\00SOFTWARE_DEV\\LogicStore\\LogicStoreAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\00SOFTWARE_DEV\\LogicStore\\LogicStoreAPI\\wwwroot\\main.8d6fda031f3bc6b7.js",
+      "PackagePath": "staticwebassets\\main.8d6fda031f3bc6b7.js"
+    },
+    {
+      "Id": "D:\\00SOFTWARE_DEV\\LogicStore\\LogicStoreAPI\\wwwroot\\polyfills.ace11571cebcf70d.js",
+      "PackagePath": "staticwebassets\\polyfills.ace11571cebcf70d.js"
+    },
+    {
+      "Id": "D:\\00SOFTWARE_DEV\\LogicStore\\LogicStoreAPI\\wwwroot\\runtime.90c3feee166c0b57.js",
+      "PackagePath": "staticwebassets\\runtime.90c3feee166c0b57.js"
+    },
+    {
+      "Id": "D:\\00SOFTWARE_DEV\\LogicStore\\LogicStoreAPI\\wwwroot\\styles.ef46db3751d8e999.css",
+      "PackagePath": "staticwebassets\\styles.ef46db3751d8e999.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LogicStoreAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LogicStoreAPI.props",
+      "PackagePath": "build\\LogicStoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LogicStoreAPI.props",
+      "PackagePath": "buildMultiTargeting\\LogicStoreAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LogicStoreAPI.props",
+      "PackagePath": "buildTransitive\\LogicStoreAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
